@@ -4,5 +4,7 @@ node_modules/
 dist/
 logs/
 .env
+mongo/
+postgres/
 
 
